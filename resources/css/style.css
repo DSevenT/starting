@@ -1,0 +1,26 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body{
+    margin: 20px 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    border: 1px solid skyblue;
+    padding: 10px;
+}
+
+.colorbox {
+    text-align: center;
+    width: 33%;
+    display: inline-block;
+}
+
+#blue {
+    background-color: #00B2EE;
+}
