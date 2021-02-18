@@ -19,8 +19,29 @@ h1 {
     text-align: center;
     width: 33%;
     display: inline-block;
+    padding: 2px;
 }
 
-#blue {
-    background-color: #00B2EE;
+#blue1 {
+    background-color: #effcfd;
+}
+
+#blue2 {
+    background-color: #d0e0e7;
+}
+
+#blue3 {
+    background-color: #7ebdbf;
+}
+
+#brown1 {
+    background-color: #e1d0a5;
+}
+
+#brown2 {
+    background-color: #fbf3d5;
+}
+
+#brown3 {
+    background-color: #fbf7ee;
 }
